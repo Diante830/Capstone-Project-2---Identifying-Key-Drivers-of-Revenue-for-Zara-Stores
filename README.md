@@ -40,7 +40,7 @@ A full walkthrough of the project, including methodology, analysis, and key insi
 ## Tools & Technologies
 
 - Python (Pandas, NumPy)  
-- Data Visualization (Matplotlib, Seaborn)  
+- Data Visualization (Bookeh)  
 - Google Colab   
 
 ---
