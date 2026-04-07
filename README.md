@@ -41,8 +41,7 @@ A full walkthrough of the project, including methodology, analysis, and key insi
 
 - Python (Pandas, NumPy)  
 - Data Visualization (Matplotlib, Seaborn)  
-- Google Colab  
-- Jupyter Notebook  
+- Google Colab   
 
 ---
 
