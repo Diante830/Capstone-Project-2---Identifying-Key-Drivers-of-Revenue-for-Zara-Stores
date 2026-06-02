@@ -33,6 +33,7 @@ This analysis aims to answer the following business questions:
 
 A full walkthrough of the project, including methodology, analysis, and key insights:
 
+[▶ Watch Project Demo](./CapstonePjoect2Video.mp4)
 ![Project Preview](https://i.ibb.co/zh0bPHkz/Screenshot-2026-04-07-at-1-12-14-PM.png)
 [View Presentation](https://pitch.com/v/identifying-key-drivers-of-revenue-for-zara-stores-yqex4s)
 
